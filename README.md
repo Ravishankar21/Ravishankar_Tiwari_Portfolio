@@ -36,14 +36,37 @@ Result-driven IT delivery and business analysis professional with **12 years of 
 * Spearheaded change management initiatives, UAT activities, defect triage, and enterprise process adoption.
 
 ---
+## 🚀 Key Managed Projects
+
+### 1. **Diamond E-Commerce Platforms (Multi-Site Portfolio)**
+* **Role:** Business Analyst & Project Manager (Current Role) | Egon Software Pvt. Ltd.
+* **Tech Stack:** .Net, SAP Integration, REST APIs, Azure DevOps, CI/CD Pipelines, Automated Testing.
+* **Key Contributions:** Managing 6 distinct e-commerce websites for diamond trading supporting end-to-end transactions including inventory viewing, stone blocking, cart management, order submission, and special requests. Handled complete business analysis documentation, sprint tracking via Azure DevOps, and streamlined deployments through CI/CD pipelines and automated test cases.
+
+### 2. **Sales Companion App**
+* **Role:** Lead Business Analyst | Excellon Software Pvt. Ltd.
+* **Tech Stack:** .Net, JavaScript, Dealer Management System (DMS) & CRM Integration, Azure DevOps, Microsoft Visio.
+* **Key Contributions:** Spearheaded requirements gathering, functional documentation, workflow mapping via Visio, and client communications. Managed Agile/Scrum ceremonies for a mobile application empowering automobile dealership salespersons to handle inquiry booking, test-ride scheduling/completion, and CMS-driven vehicle details, brochures, and videos integrated with backend DMS/CRM systems.
+
+### 3. **Office Seat Booking & Conference Reservation System**
+* **Role:** Project Manager | Emergys
+* **Tech Stack:** Mendix, Low-Code Platform.
+* **Key Contributions:** Led end-to-end project execution for workspace management, enabling employees to book office seats, reserve conference rooms, and track shift schedules for automated seat allocation. Facilitated one-on-one client sessions, handled all functional documentation, and directed Agile Scrum ceremonies.
+
+### 4. **Inventory Management System (Allegion)**
+* **Role:** IT Project Manager | Emergys
+* **Tech Stack:** Microsoft PowerApps.
+* **Key Contributions:** Directed the delivery of a comprehensive asset tracking and inventory management solution for Allegion (manufacturing sector). Managed project milestones, scope alignment, and tracked asset assignment flows from end to end using low-code PowerApps frameworks.
 
 ## 🚀 Key Developed Projects
 
-### 1. **Office Attendance Tracker (OATS)** — Desktop Application
+### 1. **Office Attendance Tracker (OATS)** *(Independent / Personal Project)*
+* **Role:** Creator & Developer
 * **Tech Stack:** Electron, React.js, JavaScript, Supabase (PostgreSQL/JSONB), SheetJS (Excel/PDF).
-* **Key Features:** Engineered an installable Windows desktop application featuring local storage caching with cloud synchronization, automated business logic for work duration, overtime, grace periods, biometric/door-access log parsing, and role-based access control.
+* **Key Contributions:** Engineered an installable Windows desktop application featuring local storage caching with cloud synchronization, automated business logic for work duration, overtime, grace periods, biometric/door-access log parsing, and role-based access control.
 
-### 2. **Diamond SCS Certificate Retrieval & Export Web Application** — Full-Stack Cloud App
+### 2. **Diamond SCS Certificate Retrieval & Export Web Application** *(Independent Project)*
+* **Role:** Creator & Developer
 * **Tech Stack:** React.js, Node.js, MongoDB, External REST APIs, Vercel.
 * **Key Features:** Built a robust web application integrating external REST APIs to fetch diamond certificate details, paired with automated Excel and PDF export reporting pipelines.
 
